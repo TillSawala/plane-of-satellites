@@ -1,0 +1,16 @@
+# Updated distances for the classical MW satellites.
+# It contains a review of recent literature with the most precise measurements of the distance modulus of these objects.
+# It includes measurements done using: detached eclipsing binaries (DEB), tip of the red giant branch (TRGB), J-region Asymptotic Giant Branch (JAGB), RR Lyrae (RRL), and Chepeids (C).
+
+# (1)satellite_name   (2)distance_modulus[mag]  (3)errors[mag]    (4)method    (5)reference   (6)link
+SagittariusdSph       17.250    0.008     RRL    Hernitschek+2019    https://ui.adsabs.harvard.edu/abs/2019ApJ...871...49H/abstract
+LMC                   18.477    0.026     DEB    Pietrzyński+2019    https://ui.adsabs.harvard.edu/abs/2019Natur.567..200P/abstract
+SMC                   18.977    0.028     DEB    Graczyk+2020        https://ui.adsabs.harvard.edu/abs/2020ApJ...904...13G/abstract
+Carina                20.12     0.11      RRL    Pietrzyński+2015    https://ui.adsabs.harvard.edu/abs/2015AJ....150...90K/abstract
+Draco                 19.35     0.01      RRL    Hernitschek+2019    https://ui.adsabs.harvard.edu/abs/2019ApJ...871...49H/abstract
+Fornax                20.77     0.03      JAGB   Freedman+2020       https://ui.adsabs.harvard.edu/abs/2020ApJ...899...67F/abstract
+Sculptor              19.62     0.04      RRL    Martínez-Vázquez+2015   https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1509M/abstract
+UrsaMinor             19.18     0.02      RRL    Hernitschek+2019    https://ui.adsabs.harvard.edu/abs/2019ApJ...871...49H/abstract
+Sextans(1)            19.55     0.01      RRL    Hernitschek+2019    https://ui.adsabs.harvard.edu/abs/2019ApJ...871...49H/abstract
+Leo1                  22.07     0.07      JAGB   Freedman+2020       https://ui.adsabs.harvard.edu/abs/2020ApJ...899...67F/abstract
+Leo2                  21.68     0.11      TRGB   Gullieuszik+2008    https://ui.adsabs.harvard.edu/abs/2008MNRAS.388.1185G/abstract
